@@ -15,9 +15,9 @@
     "three": "^0.87.0",
     "react-360": "~1.1.0",
     "react-360-web": "~1.1.0",
-    "spectron" : "^13.0.0",
-"electron-packager": "^15.2.0",
-"electron": "^11.2.1"
+    "spectron": "^13.0.0",
+    "electron-packager": "^15.2.0",
+    "electron": "^11.2.1"
   },
   "devDependencies": {
     "babel-jest": "^19.0.0",
@@ -25,7 +25,10 @@
     "jest": "^19.0.2",
     "react-devtools": "^2.5.2",
     "react-test-renderer": "16.0.0",
-    "xopen": "1.0.0"
+    "xopen": "1.0.0",
+    "spectron": "^13.0.0",
+    "electron-packager": "^15.2.0",
+    "electron": "^11.2.1"
   },
   "jest": {
     "preset": "react-360"
